@@ -1,0 +1,1 @@
+![](https://github.com/cetinyazici/OOP/blob/main/%C3%96devHayvanatBah%C3%A7esiY%C3%B6netimi/image/%C3%96devHayvanatBah%C3%A7esiY%C3%B6netimiUML.png?raw=true)
